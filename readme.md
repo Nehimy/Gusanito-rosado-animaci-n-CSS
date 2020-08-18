@@ -4,7 +4,7 @@
 
 En este ejemplo crearemos un gusanito rosado (litle pink worm) y lo animaremos con CSS también pondremos una imagen svg que sera el título  y finalmente pondremos audio.
 
-![Pink worm - animación CSS](https://imgur.com/6LZIFVn)
+![Pink worm - animación CSS](https://i.imgur.com/6LZIFVn.png)
 
 ### Creando un gusanito con CSS
 
