@@ -1,4 +1,5 @@
-# Pink worm - animación CSS
+# <span style="color:#6A5ACD"> Pink worm - animación CSS </span>
+<span style="color:red"> Pink worm - animación CSS </span>
 
 ## Introducción:
 
@@ -203,5 +204,3 @@ En las siguientes lineas de código en CSS veremos como va cambiando de color el
   
 }
 ```
-
-Este ejemplo no esta explicado al detalle si quieren ver el código completo clic aquí, y si desean ver este código corriendo o funcionando clic aquí.
