@@ -1,5 +1,4 @@
 # <span style="color:#6A5ACD"> Pink worm - animación CSS </span>
-<span style="color:red"> Pink worm - animación CSS </span>
 
 ## Introducción:
 
